@@ -2,7 +2,7 @@
 title: "Testing"
 author: "Varpu Vuoristo"
 date: "30 lokakuuta 2018"
-
+output: html_document
 ---
 
 Here is link to course diary
