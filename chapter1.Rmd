@@ -7,3 +7,4 @@
 Introduction to Open Data Science is a cource held by University of Helsinki.
 
 [my Github page](https://github.com/varpuv/IODS-project)
+
