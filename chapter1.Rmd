@@ -1,10 +1,8 @@
-
-
-*Write a short description about the course and add a link to your github repository here. This is an R markdown (.Rmd) file so you can use R markdown syntax. See the 'Useful links' page in the mooc area (chapter 1) for instructions.*
-
 # IODS - Introduction to Open Data Science
 
-Introduction to Open Data Science is a cource held by University of Helsinki.
+#### Hi there!
 
-[my Github page](https://github.com/varpuv/IODS-project)
+This is my course project page for the course on fall 2018. The name of the course Introduction to Open Data Science and it is held by University of Helsinki.
+
+Here is the [link](https://github.com/varpuv/IODS-project) to my GitHub repository.
 
