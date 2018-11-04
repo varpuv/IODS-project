@@ -2,7 +2,7 @@
 title: "IODS course project"
 output:
   html_document:
-    theme: cayman
+    theme: paper
     toc: true
     toc_depth: 2
     fig_caption: true

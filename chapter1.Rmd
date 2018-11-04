@@ -2,7 +2,7 @@
 
 #### Hi there!
 
-This is my course project page for the course on fall 2018. The name of the course Introduction to Open Data Science and it is held by University of Helsinki.
+This is my course project page for the course on fall 2018. The name of the course is Introduction to Open Data Science and it is held by University of Helsinki.
 
 Here is the [link](https://github.com/varpuv/IODS-project) to my GitHub repository.
 
