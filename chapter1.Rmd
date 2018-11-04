@@ -5,4 +5,4 @@
 
 # IODS - Introduction to Open Data Science
 
-[linki](https://github.com/varpuv/IODS-project)
+[linkki](https://github.com/varpuv/IODS-project)
