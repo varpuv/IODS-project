@@ -1,9 +1,5 @@
 ---
-title: "Testing"
-author: "Varpu Vuoristo"
-date: "30 lokakuuta 2018"
-output: html_document
+output: github_document
 ---
+https://varpuv.github.io/IODS-project/.
 
-Here is link to course diary
-https://varpuv.github.io/IODS-project/
